@@ -1,0 +1,5 @@
+names:
+- ハクビシン
+nc: 1
+train: data/train/images
+val: data/valid/images
