@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>images%20(99)Hu.jpg</filename>
+    <path>NGうどんこ病-PascalVOC-export/Annotations/images%20(99)Hu.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>128</width>
+        <height>128</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>うどんこ</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.979253112033195</xmin>
+        <ymin>1.4605809128630716</ymin>
+        <xmax>121.69294605809128</xmax>
+        <ymax>124.81327800829875</ymax>
+    </bndbox>
+</object>
+</annotation>
